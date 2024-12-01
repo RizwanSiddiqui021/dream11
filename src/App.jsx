@@ -14,9 +14,9 @@ function App() {
   const [credit, setCredit] = useState(0);
 
   const handleClaimFreeCredits = () =>{
-    const newCredit = credit + 50000000;
+    const newCredit = credit + 21000000;
     setCredit(newCredit)
-    toast.success("Credit added to your account.");
+    toast.success("Free Credits Added to Your Account.");
   }
 
   // decrease-credit-function
@@ -57,19 +57,19 @@ function App() {
 
       const alreadySelected = selectedPlayers.find((p)=> p.id == player.id)
       if(alreadySelected){
-        toast.error("Player is already selected!!");
+        toast.error("This Player is Already Selected!!");
       }
       
       else if(credit<player.price){
-        toast.error("Not enough credit!!");
+        toast.error("Not Enough Credit!! Claim Free Credits First!");
       }
 
-      else if(selectedPlayers.length>5){
-        toast.error("Cannot select more than 6 Players");
+      else if(selectedPlayers.length>10){
+        toast.error("Cannot Select More Than 11 Players.");
       }
 
       else{
-        toast.success("Player added successfully!");
+        toast.success("Player Added to Your Team.");
         handleDecreaseCredit(player.price);
         const newPlayersList = [...selectedPlayers, player];
         setSelectedPlayers(newPlayersList);
@@ -80,7 +80,7 @@ function App() {
     const handleDelete = (player) =>{
       const remainingPlayers = selectedPlayers.filter((p)=> p.id !=player.id);
       setSelectedPlayers(remainingPlayers);
-      toast.success("Player removed!!");
+      toast.success("Player Removed From Your Team.");
       handleIncreaseCredit(player.price)
     }
 

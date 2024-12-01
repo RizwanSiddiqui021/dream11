@@ -26,7 +26,7 @@ const SelectedPlayers = ({active, selectedPlayers, handleDelete, handleActiveBut
                     </div>
                 ))
             }
-            <button className="bg-[#E7FE29] px-5 py-4 rounded-xl font-bold"
+            <button className="bg-[#E7FE29] px-5 py-4 rounded-xl font-bold float-right"
                     onClick={()=>handleActiveButton(0)}>Add More Players</button>
         </div>
     );

@@ -40,7 +40,7 @@ const PlayerCard = ({player, handleSelectedPlayer}) => {
                         <h2>{price}</h2> {/* player-price */}
                     </div>
                     <button className='border px-3 py-2 rounded-lg text-sm hover:bg-[#E7FE29]'
-                            onClick={()=>handleSelectedPlayer(player)}>Choose Player</button> {/* select-player-button */}
+                            onClick={()=>handleSelectedPlayer(player)}>Select Player</button> {/* select-player-button */}
                 </div>
             </div>
             

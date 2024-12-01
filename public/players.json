@@ -1,0 +1,233 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.imgur.com/nH1bMdG.jpeg",
+        "name": "Ben Stokes",
+        "country": "England",
+        "role": "All-Rounder",
+        "rating": "9.2 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"Right-Arm-Fast",
+        "price": 2000000
+    },
+    {
+        "id": "2",
+        "cover": "https://i.imgur.com/Pwd7LOM.jpeg",
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "role": "Opening-Batter",
+        "rating": "7.8 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"N/A",
+        "price": 800000
+    },
+    {
+        "id": "3",
+        "cover": "https://i.imgur.com/sGDMZxW.jpeg",
+        "name": "Adam Gilchrist",
+        "country": "Australia",
+        "role": "Wicketkeeper-Batter",
+        "rating": "8.2 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"N/A",
+        "price": 900000
+    },
+    {
+        "id": "4",
+        "cover": "https://i.imgur.com/WlrzX3r.jpeg",
+        "name": "Dale Steyn",
+        "country": "South Africa",
+        "role": "Bowler",
+        "rating": "9.1 / 10",
+        "bat":"Right-Hand-Bat",
+        "bowl":"Right-Arm-Fast",
+        "price": 1000000
+    },
+    {
+        "id": "5",
+        "cover": "https://i.imgur.com/B4RNWGi.jpeg",
+        "name": "Jos Buttler",
+        "country": "England",
+        "role": "Wicketkeeper-Batter",
+        "rating": "8.5 / 10",
+        "bat":"Right-Hand-Bat",
+        "bowl":"N/A",
+        "price": 1100000
+    },
+    {
+        "id": "6",
+        "cover": "https://i.imgur.com/G1rELjn.jpeg",
+        "name": "Mashrafe Bin Mortaza",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "rating": "8.0 / 10",
+        "bat":"Right-Hand-Bat",
+        "bowl":"Right-Arm-Fast",
+        "price": 1200000
+    },
+    {
+        "id": "7",
+        "cover": "https://i.imgur.com/WvGoeVr.jpeg",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "role": "All-Rounder",
+        "rating": "9.0 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"Left-Arm-Spin",
+        "price": 2100000
+    },
+    {
+        "id": "8",
+        "cover": "https://i.imgur.com/4WCB8k7.jpeg",
+        "name": "Kumar Sangakkara",
+        "country": "Sri Lanka",
+        "role": "Wicketkeeper-Batter",
+        "rating": "8.5 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"N/A",
+        "price": 1200000
+    },
+    {
+        "id": "9",
+        "cover": "https://i.imgur.com/3VzJQIe.jpeg",
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "role": "Bowler",
+        "rating": "8.1 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"Left-Arm-Fast",
+        "price": 1500000
+    },
+    {
+        "id": "10",
+        "cover": "https://i.imgur.com/ojRBnOp.jpeg",
+        "name": "Shahid Afridi",
+        "country": "Pakistan",
+        "role": "All-Rounder",
+        "rating": "8.9 / 10",
+        "bat":"Right-Hand-Bat",
+        "bowl":"Right-Arm-Spin",
+        "price": 1300000
+    },
+    {
+        "id": "11",
+        "cover": "https://i.imgur.com/PFcq7w6.jpeg",
+        "name": "Sourav Ganguly",
+        "country": "India",
+        "role": "Batter",
+        "rating": "8.3 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"Right-Arm-Medium",
+        "price": 1600000
+    },
+    {
+        "id": "12",
+        "cover": "https://i.imgur.com/q6CPN8w.jpeg",
+        "name": "Suresh Raina",
+        "country": "India",
+        "role": "All-Rounder",
+        "rating": "7.8 / 10",
+        "bat":"Left-Hand-Bat",
+        "bowl":"Right-Arm-Spin",
+        "price": 1000000
+    },
+    {
+        "id": "13",
+        "cover": "https://i.imgur.com/7TrNNjE.jpeg",
+        "name": "Mahmudullah Riyad",
+        "country": "Bangladesh",
+        "role": "All-Rounder",
+        "rating": "8.7 / 10",
+        "bat":"Right-Hand-Bat",
+        "bowl":"Right-Arm-Spin",
+        "price": 1300000
+    },
+    {
+        "id": "14",
+        "cover": "https://i.imgur.com/Wu8ctkq.jpeg",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "role": "Batter",
+        "rating": "8.0 / 10",
+        "bat":"Right-Hand-Bat",
+        "bowl":"N/A",
+        "price": 1000000
+    },
+    {
+        "id": "15",
+        "cover": "https://i.imgur.com/VFiXc4w.jpeg",
+        "name": "Virat Kohli",
+        "country": "India",
+        "role": "Batter",
+        "rating": "9.1 / 10",
+        "bat":"Right-Hand-Bat",
+        "bowl":"Right-Arm-Medium",
+        "price": 2000000
+    },
+    {
+        "id": "16",
+        "cover": "https://i.imgur.com/aoY20EQ.jpeg",
+        "name": "Chris Gayle",
+        "country": "West Indies",
+        "role": "Batter",
+        "rating": "8.9 / 10",
+        "bat": "Left-Hand-Bat",
+        "bowl": "Right-Arm-Spin",
+        "price": 1800000
+    },
+    {
+        "id": "17",
+        "cover": "https://i.imgur.com/CCy10N2.jpeg",
+        "name": "Muttiah Muralitharan",
+        "country": "Sri Lanka",
+        "role": "Bowler",
+        "rating": "8.3 / 10",
+        "bat": "Right-Hand-Bat",
+        "bowl": "Right-Arm-Spin",
+        "price": 1400000
+    },
+    {
+        "id": "18",
+        "cover": "https://i.imgur.com/KLzqVff.jpeg",
+        "name": "AB de Villiers",
+        "country": "South Africa",
+        "role": "Batter",
+        "rating": "8.9 / 10",
+        "bat": "Right-Hand-Bat",
+        "bowl": "Right-Arm-Medium",
+        "price": 1900000
+    },
+    {
+        "id": "19",
+        "cover": "https://i.imgur.com/PJuvUfC.jpeg",
+        "name": "Jacques Kallis",
+        "country": "South Africa",
+        "role": "All-Rounder",
+        "rating": "7.9 / 10",
+        "bat": "Right-Hand-Bat",
+        "bowl": "Right-Arm-Medium",
+        "price": 2100000
+    },
+    {
+        "id": "20",
+        "cover": "https://i.imgur.com/QpGwRpI.jpeg",
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "role": "Bowler",
+        "rating": "7.7 / 10",
+        "bat": "Right-Hand-Bat",
+        "bowl": "Right-Arm-Spin",
+        "price": 1500000
+    },
+    {
+        "id": "21",
+        "cover": "https://i.imgur.com/Y6KOQYz.jpeg",
+        "name": "MS Dhoni",
+        "country": "India",
+        "role": "Wicketkeeper-Batter",
+        "rating": "8.5 / 10",
+        "bat": "Right-Hand-Bat",
+        "bowl": "N/A",
+        "price": 2000000
+    }
+]
